@@ -8,8 +8,7 @@ I am a final year CSE student at VIT Vellore and currently doing an internship a
 
 * 🌍  I'm based in Hyderabad, Telangana
 * ✉️  You can contact me at [rohithshetty267@gmail.com](mailto:rohithshetty267@gmail.com)
-* 🚀  I'm currently working on [Ecommerce website for furniture.](http://hackrocket-team-4.vercel.app/)
-* 🧠  I'm learning React Native.
+* 🚀  This is one of my favourite projects [Ecommerce website for furniture.](http://hackrocket-team-4.vercel.app/)
 * 🤝  I'm open to collaborating on interesting full stack projects.
 
 ### Skills
