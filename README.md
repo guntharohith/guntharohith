@@ -4,7 +4,7 @@ Hi 👋 My name is Guntha Rohith
 Full Stack Developer
 --------------------
 
-I am a final year CSE student at VIT Vellore and currently doing an internship at Bajaj Finance Limited as Frontend intern. I love full stack development. I am good at ReactJs, Angular, JavaScript, Java, Git, NodeJs, Spring Boot, MySQL, React Native, HTML, CSS and Material UI.
+I am a CSE graduate from VIT Vellore and currently working as Software Engineer UI at Raven(YC S22). I love full stack development. I am good at ReactJs, Angular, JavaScript, Java, Git, NodeJs, Spring Boot, MySQL, React Native, HTML, CSS and Material UI.
 
 * 🌍  I'm based in Hyderabad, Telangana
 * ✉️  You can contact me at [rohithshetty267@gmail.com](mailto:rohithshetty267@gmail.com)
